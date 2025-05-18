@@ -1,0 +1,28 @@
+:root{
+    --width: 960px;
+    --header-color: #EEE;
+    --header-background: #222;
+    --page-color: #333;
+    --page-light-color: #777;
+    --page-dark-color: #111;
+    --page-background: #EEE;
+    --lit-color: #F11;
+    --link-color: #06C;
+    --inline-code-color: #555;
+    --inline-code-background: #DDD
+}
+@media (prefers-color-scheme: dark){
+    :root{
+        --page-color: #CCC;
+        --page-light-color: #999;
+        --page-dark-color: #EEE;
+        --page-background: #333;
+        --inline-code-color: #AAA;
+        --inline-code-background: #444;
+    }
+}
+html{
+    font-family: monospace;
+    font-weight: 400;
+    font-size: 12pt
+}
