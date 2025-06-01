@@ -1,0 +1,2 @@
+/.well-known/webfinger
+  Access-Control-Allow-Origin: *

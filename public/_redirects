@@ -1,1 +1,1 @@
-/.well-known/resource=* https://manhattan.distraction.engineer/.well-known/resource=:splat 301
+/.well-known/webfinger?* https://manhattan.distraction.engineer/.well-known/webfinger?:splat 301
