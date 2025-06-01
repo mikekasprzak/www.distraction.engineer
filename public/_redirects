@@ -1,1 +1,1 @@
-/.well-known/webfinger?:query https://manhattan.distraction.engineer/.well-known/webfinger?:query 301
+/.well-known/* https://manhattan.distraction.engineer/.well-known/:splat 301
