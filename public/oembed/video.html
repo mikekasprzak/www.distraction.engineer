@@ -3,6 +3,13 @@
 <head><link rel="alternate" type="application/json+oembed" title="video test" href="/oembed/json/video.json" /></head>
 <body>
 <h1>Video</h1>
-Video
+<canvas id="myCanvas" width="64" height="64" style="border:1px solid black;"></canvas>
+
+<script>
+const canvas = document.getElementById("myCanvas");
+const ctx = canvas.getContext("2d");
+ctx.fillStyle = "green";
+ctx.fillRect(0, 0, 64, 64);
+</script>
 </body>
 </html> 

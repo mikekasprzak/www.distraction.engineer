@@ -3,6 +3,13 @@
 <head><link rel="alternate" type="application/json+oembed" title="rich test" href="/oembed/json/rich.json" /></head>
 <body>
 <h1>Rich</h1>
-Rich
+<canvas id="myCanvas" width="64" height="64" style="border:1px solid black;"></canvas>
+
+<script>
+const canvas = document.getElementById("myCanvas");
+const ctx = canvas.getContext("2d");
+ctx.fillStyle = "red";
+ctx.fillRect(0, 0, 64, 64);
+</script>
 </body>
 </html> 
