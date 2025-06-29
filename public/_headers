@@ -4,3 +4,5 @@
   Link: <https://distraction.engineer/oembed/json/video.json>; rel="alternate"; type="application/json+oembed"; title="Vee Dee Oh"
 /oembed/rich.html
   Link: <https://distraction.engineer/oembed/json/rich.json>; rel="alternate"; type="application/json+oembed"; title="Richy Oh"
+/oembed/youtube.html
+  Link: <https://distraction.engineer/oembed/json/youtube.json>; rel="alternate"; type="application/json+oembed"; title="YouTube Oh"
