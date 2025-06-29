@@ -6,3 +6,5 @@
   Link: <https://distraction.engineer/oembed/json/rich.json>; rel="alternate"; type="application/json+oembed"; title="Richy Oh"
 /oembed/youtube.html
   Link: <https://distraction.engineer/oembed/json/youtube.json>; rel="alternate"; type="application/json+oembed"; title="YouTube Oh"
+/oembed/www.youtube.com.html
+  Link: <https://distraction.engineer/oembed/json/www.youtube.com.json>; rel="alternate"; type="application/json+oembed"; title="www.YouTube.com Oh"
